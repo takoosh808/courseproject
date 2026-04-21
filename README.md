@@ -1,2 +1,2 @@
 ### Certification
-I chose the isc2 certified in cybsecurity certification. I completed the training through the isc2 website, and have scheduled the exam for April 29th. 
+I chose the isc2 certified in cybsecurity certification. I completed the training through the isc2 website, and have scheduled the exam for April 29th. Through this training, I learned the basics of cybersecurity, including subjects all the way up to networking security. From this I took away that security as a whole is not just about prevention, but also about procedures for recovery, because it is always assumed that even the best defenses will fail at some point.
